@@ -1,0 +1,14 @@
+{
+  "name": "trt-authenticate",
+  "version": "1.0.2",
+  "description": "A module to help user authenticate user in the system and generate access token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "authenticate"
+  ],
+  "author": "Ketan Saresa",
+  "license": "ISC"
+}
